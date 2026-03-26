@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 NeuroTrade AI
 
 > Stock price prediction web application powered by LSTM recurrent neural networks.
@@ -109,3 +110,7 @@ stock-rnn-app/
 ## ⚠️ Disclaimer
 
 This application is for **educational purposes only**. Predictions should not be used as financial advice.
+=======
+# NeuroTrade-AI
+Production-Ready AI Stock Price Prediction Web App built using LSTM/RNN, FastAPI, React, Alpha Vantage API, and AI Chatbot Assistant.  Features real-time market data, deep learning prediction, premium dashboard UI, and Gen-Z style AI trading assistant.
+>>>>>>> edee11cd5e7a5b8553068d2da4efce94acb1cf7f
