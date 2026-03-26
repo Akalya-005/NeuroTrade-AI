@@ -1,0 +1,10 @@
+{
+  "ticker": "AMZN",
+  "seq_length": 60,
+  "epochs": 20,
+  "rmse": 7.0655,
+  "mae": 5.3367,
+  "accuracy": 52.72,
+  "trained_at": "2026-03-26T20:21:34.645196",
+  "data_points": 1256
+}

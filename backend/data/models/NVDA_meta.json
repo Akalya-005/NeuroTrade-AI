@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "seq_length": 60,
+  "epochs": 20,
+  "rmse": 5.7622,
+  "mae": 4.4415,
+  "accuracy": 47.7,
+  "trained_at": "2026-03-26T20:29:30.031672",
+  "data_points": 1256
+}

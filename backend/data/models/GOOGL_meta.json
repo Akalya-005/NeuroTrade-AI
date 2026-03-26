@@ -1,0 +1,10 @@
+{
+  "ticker": "GOOGL",
+  "seq_length": 60,
+  "epochs": 50,
+  "rmse": 7.9827,
+  "mae": 6.263,
+  "accuracy": 49.79,
+  "trained_at": "2026-03-26T20:34:33.208848",
+  "data_points": 1256
+}

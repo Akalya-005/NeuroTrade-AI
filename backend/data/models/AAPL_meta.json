@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "seq_length": 60,
+  "epochs": 10,
+  "rmse": 7.2916,
+  "mae": 5.6903,
+  "accuracy": 45.8,
+  "trained_at": "2026-03-26T15:54:38.872592",
+  "data_points": 1255
+}

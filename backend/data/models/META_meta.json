@@ -1,0 +1,10 @@
+{
+  "ticker": "META",
+  "seq_length": 60,
+  "epochs": 10,
+  "rmse": 40.435,
+  "mae": 33.8481,
+  "accuracy": 52.1,
+  "trained_at": "2026-03-26T15:05:00.260271",
+  "data_points": 1255
+}
